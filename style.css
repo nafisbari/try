@@ -1,3 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
 h1{
     background-color: slateblue;
     color: tomato;
@@ -63,4 +69,29 @@ h1{
  }
  .jani{
      font-size: 21px;
+ }
+
+ /*eita test css*/
+
+ /*header section css*/
+
+    .dong{
+        background-color: red;
+    }
+    .dong h1{
+        color:white;
+        background-color: royalblue;
+        padding:40px;
+    }
+
+ /*header section css end*/
+
+ /*second section scss stasts here*/
+
+ .container{
+     display:flex;
+ }
+ .container h1{
+     margin-right:250px ;
+     margin-left:-250px;
  }
