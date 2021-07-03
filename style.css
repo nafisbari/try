@@ -1,0 +1,66 @@
+h1{
+    background-color: slateblue;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ac p{
+     text-align: justify;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 400;
+     font-style: italic;
+ }
+ .blog{
+     font-size: 2em;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .af{
+     color: sienna;
+ }
+ .ac{
+     background-color: skyblue;
+     border: 3px solid slategray;
+     border-radius: 15px;
+     margin-left: 10px;
+     margin-right: 10px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     
+ }
+ .av{
+     color: sienna;
+ }
+ .ad{
+     color: teal;
+ }
+ #abc{
+     color: lawngreen;
+ }
+ #def{
+     background-color: lightblue;
+
+ }
+
+ .ami{
+     background-color: bisque;
+     color: black;
+ }
+ .tumi{
+     color: coral;
+     background-color: darkgray;
+
+ }
+ .sikhlam{
+     background-color: darkkhaki;
+     color: red;
+ }
+ .hot{
+     text-align: right;
+ }
+ .jani{
+     font-size: 21px;
+ }
